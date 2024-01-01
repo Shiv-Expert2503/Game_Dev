@@ -1,7 +1,7 @@
 # Project Title: Advanced 3-D Hand Tracking Module
 
 ## Description:
-Revolutionize hand tracking without the need for expensive 3-D devices like Leap Motion. Our cutting-edge project leverages the power of computer vision through MediaPipe, enabling precise [x, y, z] coordinate capture using just a standard 2-D webcam. Why invest in costly hardware when our solution provides comparable accuracy?
+Revolutionize hand tracking without the need for expensive 3-D devices like Leap Motion. Our cutting-edge project leverages the power of computer vision through MediaPipe, `enabling precise [x, y, z] coordinate capture using just a standard 2-D webcam`. Why invest in costly hardware when our solution provides comparable accuracy?
 
 ## Key Features:
 
@@ -23,26 +23,25 @@ Advantages:
 
 ## How it Works:
 Our module employs advanced computer vision algorithms, integrating seamlessly with MediaPipe to capture and interpret hand movements. The result is a cost-effective, webcam-based 3-D hand tracking solution that brings a new level of accessibility to this technology.
+It detects the hand at 21 points.
+These 21 points are called landmarks. And each landmark has its importance!
+The detected coordinates of the hand are then passed to `Unity` using UDP protocol for minimal latency.
+And in Unity we can extract the coordinates via ```C#``` we can do exciting things with the received coordinates. 
 
 ## Ideal for:
 
-Developers: Integrate our module into your projects without the expense of dedicated 3-D tracking hardware.
+1. Developers: Integrate our module into your projects without the expense of dedicated 3-D tracking hardware.
 
-Enthusiasts: Explore the world of 3-D hand tracking without breaking the bank.
+2. Enthusiasts: Explore the world of 3-D hand tracking without breaking the bank.
 
-Experience the Future of Hand Tracking – Upgrade Your Projects Today!
+3. Experience the Future of Hand Tracking – Upgrade Your Projects Today!
 
 ## Functions Available:-
 
-It detects the hand at 21 points.
-These 21 points are called landmarks. And each landmark has its importance!
-
-The detected coordinates of the hand are then passed to unity using UDP protocol for minimal latency.
-And in Unity we can do exciting things with the received coordinates. 
 1. Find Hands
 2. Get LandMarks
 
-## What we Can do is:
+## What we Can do:
 
 1. Can create our own environment and play with it.
 2. Make 3-D objects that can be accessed by our hands.
