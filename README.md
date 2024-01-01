@@ -1,7 +1,7 @@
 # Project Title: Advanced 3-D Hand Tracking Module
 
 ## Description:
-Revolutionize hand tracking without the need for expensive 3-D devices like Leap Motion. Our cutting-edge project leverages the power of computer vision through MediaPipe, `enabling precise [x, y, z] coordinate capture using just a standard 2-D webcam`. Why invest in costly hardware when our solution provides comparable accuracy?
+Revolutionize hand tracking without the need for expensive 3-D devices like Leap Motion. Our cutting-edge project leverages the power of computer vision through MediaPipe, `enabling precise [x, y, z] coordinate capture using just a standard 2-D webcam`. Why invest in costly hardware when our solution provides comparable accuracy? `The Demo of it is shown below!`
 
 ## Key Features:
 
