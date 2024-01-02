@@ -43,9 +43,9 @@ And in Unity we can extract the coordinates via ```C#``` we can do exciting thin
 
 ## What we Can do:
 
-1. Can create our own environment and play with it.
+1. Can create our environment and play with it.
 2. Make 3-D objects that can be accessed by our hands.
-3. Can create a 3-D Game. But that is something related to Game development.
+3. Can combine Game Development and the power of ML to result in the formation of Futuristic Games.
 
    
 ## Here is the Demo:-
